@@ -1,5 +1,6 @@
 # Members
-
+This page reflects the data in `members/members.json` and
+      can be rebuilt by running `make` form the project root.
 <table>
   <tr><td></td><td>Name</td><td>Languages</td><td>Platforms</td></tr>
   <tr>

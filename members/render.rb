@@ -4,7 +4,9 @@ require 'json'
 members = JSON.parse(
   File.read(File.dirname(__FILE__) + "/members.json"))
 
-puts "# Members\n\n"
+puts "# Members"
+puts "This page reflects the data in `members/members.json` and
+      can be rebuilt by running `make` form the project root."
 puts "<table>"
 puts "  <tr><td></td><td>Name</td><td>Languages</td><td>Platforms</td></tr>"
 members.each {|member|
