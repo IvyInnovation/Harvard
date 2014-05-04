@@ -1,3 +1,3 @@
 compile:
-	ruby render.rb > members.md
+	ruby members/render.rb > members.md
 

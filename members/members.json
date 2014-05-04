@@ -1,15 +1,18 @@
 [{
   "name": "Ajay Nathan",
+  "github": "AjayNathan",
   "languages": ["C++", "Python"],
   "platforms": [],
   "avatar": "https://avatars2.githubusercontent.com/u/5009984"
 }, {
   "name": "Dan Fu",
+  "github": "DanFu1",
   "languages": ["C++", "Java", "Ruby", "JavaScript"],
   "platforms": ["Android", "Rails", "Web"],
   "avatar": "https://avatars1.githubusercontent.com/u/4600866"
 }, {
   "name": "Ben Li",
+  "github": "benjix",
   "languages": ["C++", "Java", "Python"],
   "platforms": ["Android"],
   "avatar": "https://avatars0.githubusercontent.com/u/7121441"
