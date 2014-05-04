@@ -22,4 +22,22 @@ This page reflects the data in `members/members.json` and
     <td>C++, Java, Python</td>
     <td>Android</td>
   </tr>
+  <tr>
+    <td><img src='https://avatars0.githubusercontent.com/u/2636992?s=50' width='50px'></td>
+    <td><a href='raahilsha'>Raahil Sha</a></td>
+    <td>C#, Java, JavaScript, R</td>
+    <td>Android, WiiU</td>
+  </tr>
+  <tr>
+    <td><img src='https://avatars2.githubusercontent.com/u/2553407?s=50' width='50px'></td>
+    <td><a href='anishdhar'>Anish Dhar</a></td>
+    <td>Java, Python, PHP, JavaScript</td>
+    <td>Node.js, Web</td>
+  </tr>
+  <tr>
+    <td><img src='https://avatars2.githubusercontent.com/u/3293061?s=50' width='50px'></td>
+    <td><a href='sredmond'>Sam Redmond</a></td>
+    <td>Java, Python, C, C++, Ruby, Objective-C</td>
+    <td>Web</td>
+  </tr>
 </table>

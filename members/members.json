@@ -22,5 +22,17 @@
   "languages": ["C#", "Java", "JavaScript", "R"],
   "platforms": ["Android", "WiiU"],
   "avatar": "https://avatars0.githubusercontent.com/u/2636992"
+}, {
+  "name": "Anish Dhar",
+  "github": "anishdhar",
+  "languages": ["Java", "Python", "PHP", "JavaScript"],
+  "platforms": ["Node.js", "Web"],
+  "avatar": "https://avatars2.githubusercontent.com/u/2553407"
+}, {
+  "name": "Sam Redmond",
+  "github": "sredmond",
+  "languages": ["Java", "Python", "C", "C++", "Ruby", "Objective-C"],
+  "platforms": ["Web"],
+  "avatar": "https://avatars2.githubusercontent.com/u/3293061"
 }]
 
