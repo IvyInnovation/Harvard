@@ -1,4 +1,10 @@
 [{
+  "name": "Matt Neary",
+  "github": "mattneary",
+  "languages": ["C", "Objective-C", "Ruby", "Python", "Java", "Haskell", "Clojure", "Scala", "JavaScript", "PHP", "Erlang", "OCaml"],
+  "platforms": ["Mac", "iOS", "Android", "Web"],
+  "avatar": "https://avatars1.githubusercontent.com/u/515539"
+}, {
   "name": "Ajay Nathan",
   "github": "AjayNathan",
   "languages": ["C++", "Python"],
