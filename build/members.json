@@ -5,6 +5,12 @@
   "platforms": ["Mac", "iOS", "Android", "Web"],
   "avatar": "https://avatars1.githubusercontent.com/u/515539"
 }, {
+  "name": "Sam Redmond",
+  "github": "sredmond",
+  "languages": ["Python", "Java", "C", "C++", "Lisp", "HTML5", "CSS3", "JavaScript", "R", "SQL", "Ruby", "Objective-C"],
+  "platforms": ["Web","Arduino","Mac"],
+  "avatar": "https://avatars2.githubusercontent.com/u/3293061"
+}, {
   "name": "Ajay Nathan",
   "github": "AjayNathan",
   "languages": ["C++", "Python"],
@@ -34,12 +40,6 @@
   "languages": ["Java", "Python", "PHP", "JavaScript"],
   "platforms": ["Node.js", "Web"],
   "avatar": "https://avatars2.githubusercontent.com/u/2553407"
-}, {
-  "name": "Sam Redmond",
-  "github": "sredmond",
-  "languages": ["Java", "Python", "C", "C++", "Ruby", "Objective-C"],
-  "platforms": ["Web"],
-  "avatar": "https://avatars2.githubusercontent.com/u/3293061"
 }, {
   "name": "Neel Mehta",
   "github": "hathix",

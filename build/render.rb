@@ -20,4 +20,8 @@ members.each {|member|
   </tr>" 
 }
 puts "</table>"
-
+puts "## Landing Page"
+puts "We have set up a temporary [landing page](http://ivyinnovation.github.io/Harvard/) 
+			on [Github Pages](https://pages.github.com/). The code can be found in the `gh-pages` 
+			branch of this repository. If you are interested in web development and design, feel 
+			free to contribute."

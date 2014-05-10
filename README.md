@@ -12,6 +12,12 @@ This page reflects the data in `build/members.json` and
     <td>Mac, iOS, Android, Web</td>
   </tr>
   <tr>
+    <td><img src='https://avatars2.githubusercontent.com/u/3293061?s=50' width='50px'></td>
+    <td><a href='http://github.com/sredmond'>Sam Redmond</a></td>
+    <td>Python, Java, C, C++, Lisp, HTML5, CSS3, JavaScript, R, SQL, Ruby, Objective-C</td>
+    <td>Web, Arduino, Mac</td>
+  </tr>
+  <tr>
     <td><img src='https://avatars2.githubusercontent.com/u/5009984?s=50' width='50px'></td>
     <td><a href='http://github.com/AjayNathan'>Ajay Nathan</a></td>
     <td>C++, Python</td>
@@ -42,15 +48,14 @@ This page reflects the data in `build/members.json` and
     <td>Node.js, Web</td>
   </tr>
   <tr>
-    <td><img src='https://avatars2.githubusercontent.com/u/3293061?s=50' width='50px'></td>
-    <td><a href='http://github.com/sredmond'>Sam Redmond</a></td>
-    <td>Java, Python, C, C++, Ruby, Objective-C</td>
-    <td>Web</td>
-  </tr>
-  <tr>
     <td><img src='https://avatars1.githubusercontent.com/u/728084?s=50' width='50px'></td>
     <td><a href='http://github.com/hathix'>Neel Mehta</a></td>
     <td>PHP, JavaScript, Java, Python</td>
     <td>Web, Android</td>
   </tr>
 </table>
+## Landing Page
+We have set up a temporary [landing page](http://ivyinnovation.github.io/Harvard/) 
+			on [Github Pages](https://pages.github.com/). The code can be found in the `gh-pages` 
+			branch of this repository. If you are interested in web development and design, feel 
+			free to contribute.
