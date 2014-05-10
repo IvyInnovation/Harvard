@@ -53,6 +53,12 @@ This page reflects the data in `build/members.json` and
     <td>PHP, JavaScript, Java, Python</td>
     <td>Web, Android</td>
   </tr>
+  <tr>
+    <td><img src='https://avatars1.githubusercontent.com/u/7121320?s=50' width='50px'></td>
+    <td><a href='http://github.com/wmackey'>Wyatt Mackey</a></td>
+    <td>Python, C++, Haskell</td>
+    <td>Supercomputers</td>
+  </tr>
 </table>
 ## Landing Page
 We have set up a temporary [landing page](http://ivyinnovation.github.io/Harvard/) 

@@ -46,5 +46,11 @@
   "languages": ["PHP", "JavaScript", "Java", "Python"],
   "platforms": ["Web, Android"],
   "avatar": "https://avatars1.githubusercontent.com/u/728084"
+}, {
+  "name": "Wyatt Mackey",
+  "github": "wmackey",
+  "languages": ["Python", "C++", "Haskell"],
+  "platforms": ["Supercomputers"],
+  "avatar": "https://avatars1.githubusercontent.com/u/7121320"
 }]
 
