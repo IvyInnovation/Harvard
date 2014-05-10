@@ -21,7 +21,7 @@ This page reflects the data in `build/members.json` and
     <td><img src='https://avatars1.githubusercontent.com/u/4600866?s=50' width='50px'></td>
     <td><a href='http://github.com/DanFu1'>Dan Fu</a></td>
     <td>C++, Java, Ruby, JavaScript</td>
-    <td>Android, Rails, Web</td>
+    <td>Android, Rails, Web, Node.js</td>
   </tr>
   <tr>
     <td><img src='https://avatars0.githubusercontent.com/u/7121441?s=50' width='50px'></td>
@@ -46,5 +46,11 @@ This page reflects the data in `build/members.json` and
     <td><a href='http://github.com/sredmond'>Sam Redmond</a></td>
     <td>Java, Python, C, C++, Ruby, Objective-C</td>
     <td>Web</td>
+  </tr>
+  <tr>
+    <td><img src='https://avatars1.githubusercontent.com/u/728084?s=50' width='50px'></td>
+    <td><a href='http://github.com/hathix'>Neel Mehta</a></td>
+    <td>PHP, JavaScript, Java, Python</td>
+    <td>Web, Android</td>
   </tr>
 </table>
