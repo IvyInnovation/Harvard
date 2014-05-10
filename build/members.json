@@ -14,7 +14,7 @@
   "name": "Dan Fu",
   "github": "DanFu1",
   "languages": ["C++", "Java", "Ruby", "JavaScript"],
-  "platforms": ["Android", "Rails", "Web"],
+  "platforms": ["Android", "Rails", "Web", "Node.js"],
   "avatar": "https://avatars1.githubusercontent.com/u/4600866"
 }, {
   "name": "Ben Li",
@@ -40,5 +40,11 @@
   "languages": ["Java", "Python", "C", "C++", "Ruby", "Objective-C"],
   "platforms": ["Web"],
   "avatar": "https://avatars2.githubusercontent.com/u/3293061"
+}, {
+  "name": "Neel Mehta",
+  "github": "hathix",
+  "languages": ["PHP", "JavaScript", "Java", "Python"],
+  "platforms": ["Web, Android"],
+  "avatar": "https://avatars1.githubusercontent.com/u/728084"
 }]
 
